@@ -1,0 +1,39 @@
+{"client_name": "shilpa", "message": "shilpa has joined the chat!"}
+{"client_name": "Kavya", "message": "Kavya has joined the chat!"}
+{"client_name": "Kavya", "message": "Heyyy"}
+{"client_name": "shilpa", "message": "hi kavya"}
+{"client_name": "Kavya", "message": "Watsup Shilpa ?"}
+{"client_name": "Dheekshitha", "message": "Dheekshitha has joined the chat!"}
+{"client_name": "Dheekshitha", "message": "Hello guys"}
+{"client_name": "shilpa", "message": "os project"}
+{"client_name": "shilpa", "message": "hello dheek!"}
+{"client_name": "Kavya", "message": "HEllo Dheekshitha"}
+{"client_name": "Kavya", "message": "Oh okay"}
+{"client_name": "sathwika", "message": "sathwika has joined the chat!"}
+{"client_name": "Dheekshitha", "message": "Did u guys complete OS project?"}
+{"client_name": "sathwika", "message": "hloo guys:)"}
+{"client_name": "Kavya", "message": "Ya almost done"}
+{"client_name": "Dheekshitha", "message": "Hloo sathwika"}
+{"client_name": "Kavya", "message": "Wt abt u? @Dheek"}
+{"client_name": "sathwika", "message": "yeah almost done!!"}
+{"client_name": "Kavya", "message": "Hi sathwika"}
+{"client_name": "sathwika", "message": "hloo"}
+{"client_name": "Dheekshitha", "message": "@Kavya I have submitted  "}
+{"client_name": "Kavya", "message": "Hey...where are u all currently staying ?"}
+{"client_name": "Kavya", "message": "Oh good u to hear @dheekshitha"}
+{"client_name": "sathwika", "message": "nellore @kavya"}
+{"client_name": "Dheekshitha", "message": "Jammalamadugu....My Native "}
+{"client_name": "shilpa", "message": "hyderabad as usual "}
+{"client_name": "Kavya", "message": "Oh okay ..Hope u r safe !!!"}
+{"client_name": "sathwika", "message": "bye guys..its time to sleep"}
+{"client_name": "shilpa", "message": "where are you kavya?"}
+{"client_name": "Dheekshitha", "message": "BTW...where are u kavya?"}
+{"client_name": "sathwika", "message": "has left the chat."}
+{"client_name": "Kavya", "message": "Vijayawada @shilpa"}
+{"client_name": "Dheekshitha", "message": "bye qus"}
+{"client_name": "Dheekshitha", "message": "Dheekshitha has left the chat."}
+{"name": "Dheekshitha", "message": " has closed connection forcefully."}
+{"client_name": "Kavya", "message": "OKay bye"}
+{"name": "Kavya", "message": " has closed connection forcefully."}
+{"client_name": "shilpa", "message": "ok bye guys"}
+{"name": "shilpa", "message": " has closed connection forcefully."}
